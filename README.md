@@ -1,2 +1,2 @@
 # Kabuda
-My first Repository
+It's My Repository
